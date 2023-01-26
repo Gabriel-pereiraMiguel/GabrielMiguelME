@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMiguelME&theme=codeSTACKr)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=maroongold)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=codeSTACKr)
 
 **GabrielMiguelME/GabrielMiguelME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
