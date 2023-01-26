@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMiguelME&theme=codeSTACKr)
+(https://github-readme-stats.vercel.app/api?username=GabrielMiguelME&theme=codeSTACKr)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=jolly) 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=jolly) 
  
 
 
