@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMiguelME&theme=codeSTACKr)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmachado&layout=compact&theme=great-gatsby)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=great-gatsby)
  
 
 
