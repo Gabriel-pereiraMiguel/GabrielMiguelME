@@ -2,7 +2,7 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMiguelME&theme=codeSTACKr)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/PAT_1/api/top-langs/?username=GabrielMiguelME&layout=compact&theme=jolly) 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/PAT_1/?username=GabrielMiguelME&layout=compact&theme=jolly) 
  
 
 
